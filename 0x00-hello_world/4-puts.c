@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
-*main - Short description, single line
-*Description: Longer description of the function
-*Return: Description of the returned value
+*main - Entry point
+*Return: Always 0 (Success)
 */
 
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle\n");
+put("\"Programming is like building a multilingual puzzle");
 return (0);
-}	
+}
