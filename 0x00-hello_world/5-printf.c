@@ -7,6 +7,6 @@
 
 int main(void)
 {
-printf("with proper grammer, but the outcomw is piece of art");
+printf("with proper grammer, but the outcomw is piece of art\n");
 return (0);
 }
