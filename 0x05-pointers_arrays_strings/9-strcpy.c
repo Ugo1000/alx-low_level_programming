@@ -2,11 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_array - prints an inputed number of elements
- * @a: array of integers
- * @n: number of elements to be printed
+ * print_array - Prints n elements of an array of integers
+ * @n: the number of elements of the array to be printed
+ * @a: the array of integers
  */
-
 void print_array(int *a, int n)
 {
 	int index;
@@ -17,7 +16,6 @@ void print_array(int *a, int n)
 
 		if (index == n - 1)
 			continue;
-
 		printf(", ");
 	}
 	printf("\n");
