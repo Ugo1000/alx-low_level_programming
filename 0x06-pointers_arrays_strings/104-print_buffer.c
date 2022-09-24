@@ -29,7 +29,7 @@ void printHexes(char *b, int start, int end)
 			printf("  ");
 		if (i % 2)
 			printf(" ");
-[<0;27;15m		i++;
+		i++;
 	}
 }
 
