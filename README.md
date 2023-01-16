@@ -1,1 +1,1 @@
-nice
+A low-level language is a programming language that deals with a computer's hardware components and constraints. It has no (or only a minute level of) abstraction in reference to a computer and works to manage a computer's operational semantic.
